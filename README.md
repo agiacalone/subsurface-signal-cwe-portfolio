@@ -16,7 +16,7 @@ This is a curated portfolio of my work as a university lecturer, cybersecurity r
 - [Malware Archives](#malware-archives)
 - [Interactive Teaching Resources (Perplexity)](#interactive-teaching-resources-perplexity)
 - [Press & Early Public Service](#press--early-public-service)
-- [Hacker Culture & Preservation Projects](#-hacker-culture--preservation-projects)
+- [Hacker Culture & Preservation Projects](#hacker-culture--preservation-projects)
 
 ---
 
