@@ -11,6 +11,7 @@ This is a curated portfolio of my work as a university lecturer, cybersecurity r
 ## Table of Contents
 
 - [M.S. Thesis & Background](#ms-thesis--background)
+- [Certifications & Communications Credentials](#certifications--communications-credentials)
 - [University Coursework Repos](#university-coursework-repos)
 - [Malware Archives](#malware-archives)
 - [Interactive Teaching Resources (Perplexity)](#interactive-teaching-resources-perplexity)
