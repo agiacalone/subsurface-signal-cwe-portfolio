@@ -119,7 +119,7 @@ Archival repositories of historic malware with annotations and educational comme
 - [Arbitrary Code Execution](https://www.perplexity.ai/page/arbitrary-code-execution-ace-y8KKrlwmSRCXClqFmSzGmA)
 
 ### Distributed Systems
-- [What Are Distributed Systems?](https://www.perplexity.ai/page/distributed-systems-what-are-s-u9NS2wp9SzCUWvkR0pDH_g)  
+- [Stateful and Stateless Distributed Systems?](https://www.perplexity.ai/page/distributed-systems-what-are-s-u9NS2wp9SzCUWvkR0pDH_g)  
 - [Code Migration in DS](https://www.perplexity.ai/page/distributed-systems-code-migra-MWheWF6RQfG18bn9afAlhQ)  
 - [Naming in DS](https://www.perplexity.ai/page/explain-naming-in-distributed-szEsOxd.R4eUgU9Urp.OEA)  
 - [TCP vs UDP vs IP](https://www.perplexity.ai/page/tcp-vs-udp-vs-ip-VZRK35KLS8Ks5AyXYmnitQ)
