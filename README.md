@@ -16,6 +16,7 @@ This is a curated portfolio of my work as a university lecturer, cybersecurity r
 - [Malware Archives](#malware-archives)
 - [Interactive Teaching Resources (Perplexity)](#interactive-teaching-resources-perplexity)
 - [Press & Early Public Service](#press--early-public-service)
+- [Hacker Culture & Preservation Projects](#-hacker-culture--preservation-projects)
 
 ---
 
@@ -137,6 +138,17 @@ Archival repositories of historic malware with annotations and educational comme
 - **Half Moon Bay Police Department (1998)**:  
   [“Ticket Tape Parade for Parking Scofflaw” – *Half Moon Bay Review*](https://www.coastsidenews.com/news/ticket-tape-parade-for-parking-scofflawseric-rice-half-moon-bay-review-april-10-1998/article_2a3773b6-ed1f-5c85-b9b0-3dad4266ed04.html)  
   *Early civic service as a Community Service Officer. Documented experience in leadership, composure under pressure, and public engagement.*
+
+---
+
+## Hacker Culture & Preservation Projects
+
+- **The Jargon File Archive**  
+  A curated and annotated copy of the legendary hacker lexicon.  
+  https://github.com/agiacalone/jargonfile
+
+> “Understanding how hackers think isn’t just useful—it’s vital. This file helped define the mindset that built Unix, cracked systems, and reshaped software.  
+> It’s not just culture. It’s context.”
 
 ---
 
