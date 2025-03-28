@@ -145,7 +145,7 @@ Archival repositories of historic malware with annotations and educational comme
 
 - **The Jargon File Archive**  
   A curated and annotated copy of the legendary hacker lexicon.  
-  https://github.com/agiacalone/jargonfile
+  [The Jargon File (Community Edition)](https://github.com/agiacalone/jargonfile)
 
 > “Understanding how hackers think isn’t just useful—it’s vital. This file helped define the mindset that built Unix, cracked systems, and reshaped software.  
 > It’s not just culture. It’s context.”
