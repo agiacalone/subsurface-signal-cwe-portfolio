@@ -110,13 +110,13 @@ Archival repositories of historic malware with annotations and educational comme
 ### Cybersecurity
 - [Primer on Computer Security](https://www.perplexity.ai/page/primer-on-computer-security-rRH8U0.6QCCt2fdkR8ljVw)  
 - [Origins of Hacking](https://www.perplexity.ai/page/origins-of-hacking-FI8yYKN9Q9OzA76kyTYv2w)  
-- [Public Key Encryption Primer](https://www.perplexity.ai/page/public-key-encryption-primer-Ys0Y.1_pTeCdF17S.GDPZQ)  
-- [Symmetric Encryption Primer](https://www.perplexity.ai/page/symmetric-encryption-primer-IQisrj0dS6ivqbd8wx7MxA)  
-- [Hashing Algorithms](https://www.perplexity.ai/page/hashing-algorithms-cMSMBLC_SmOGH8zKMpVEoA)  
+- [Asymmetric Encryption](https://www.perplexity.ai/page/public-key-encryption-primer-Ys0Y.1_pTeCdF17S.GDPZQ)  
+- [Symmetric Encryption](https://www.perplexity.ai/page/symmetric-encryption-primer-IQisrj0dS6ivqbd8wx7MxA)  
+- [Hashing and Randomness](https://www.perplexity.ai/page/hashing-algorithms-cMSMBLC_SmOGH8zKMpVEoA)  
 - [Malicious Software](https://www.perplexity.ai/page/malicious-software-SOzEtWwERyOMcorXkUHdFg)  
-- [DoS Attacks](https://www.perplexity.ai/page/denial-of-service-attacks-ttYh6GvISVmEj8ue6pRTFg)  
+- [Denial of Service Attacks](https://www.perplexity.ai/page/denial-of-service-attacks-ttYh6GvISVmEj8ue6pRTFg)  
 - [Database Security](https://www.perplexity.ai/page/database-security-hn87j6QxSH.7ARDfKCYAfQ)  
-- [Arbitrary Code Execution](https://www.perplexity.ai/page/arbitrary-code-execution-ace-y8KKrlwmSRCXClqFmSzGmA)
+- [Arbitrary Code Execution and Buffer Overflow Attacks](https://www.perplexity.ai/page/arbitrary-code-execution-ace-y8KKrlwmSRCXClqFmSzGmA)
 
 ### Distributed Systems
 - [Stateful and Stateless Distributed Systems](https://www.perplexity.ai/page/distributed-systems-what-are-s-u9NS2wp9SzCUWvkR0pDH_g)  
