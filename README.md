@@ -129,7 +129,7 @@ Archival repositories of historic malware with annotations and educational comme
 - [Virtual Machines](https://www.perplexity.ai/page/virtual-machines-lAQXxo3WSAumkse6MtycxQ)  
 - [MIT Tech Model Railroad Club](https://www.perplexity.ai/page/mit-tech-model-railroad-club-K_3RDZjMSuuuM2NcaPvbQw)  
 - [Sister Mary Kenneth Keller](https://www.perplexity.ai/page/sister-mary-kenneth-keller-8h_hPm1VRka9yXPrGSZxlQ)  
-- [RADM Grace Hopper (USN)](https://www.perplexity.ai/page/radm-grace-hopper-usn-ItNPfhjTRwKIFOXL9gtcFQ)
+- [RDML Grace Hopper (USN)](https://www.perplexity.ai/page/radm-grace-hopper-usn-ItNPfhjTRwKIFOXL9gtcFQ)
 
 ---
 
