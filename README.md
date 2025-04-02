@@ -72,7 +72,7 @@ I don’t just document communication systems. I transmit across them."*
 - [Semester Project – Compiler Construction](https://github.com/agiacalone/cecs-444-semester-project)
 
 ### CECS 342 – Programming Languages  
-- [Inform7 Game Lab](https://github.com/agiacalone/cecs-342-lab-inform7)  
+- [Inform 7 Game Lab](https://github.com/agiacalone/cecs-342-lab-inform7)  
 - [Ruby Scripting](https://github.com/agiacalone/cecs-342-lab-ruby)  
 - [Erlang Concurrency](https://github.com/agiacalone/cecs-342-lab-erlang)  
 - [Prolog Logic Programming](https://github.com/agiacalone/cecs-342-lab-prolog)  
