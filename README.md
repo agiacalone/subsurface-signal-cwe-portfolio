@@ -44,7 +44,7 @@ I don’t just document communication systems. I transmit across them."*
 
 ---
 
-## University Coursework Repos
+## University Teaching Coursework Repos
 
 ### CECS 378 – Intro to Computer Security  
 - [Symmetric Crypto Lab](https://github.com/agiacalone/cecs-378-lab-symmetric-crypto)  
