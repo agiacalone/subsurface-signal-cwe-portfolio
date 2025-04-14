@@ -117,6 +117,7 @@ Archival repositories of historic malware with annotations and educational comme
 - [Denial of Service Attacks](https://www.perplexity.ai/page/denial-of-service-attacks-ttYh6GvISVmEj8ue6pRTFg)  
 - [Database Security](https://www.perplexity.ai/page/database-security-hn87j6QxSH.7ARDfKCYAfQ)  
 - [Arbitrary Code Execution and Buffer Overflow Attacks](https://www.perplexity.ai/page/arbitrary-code-execution-ace-y8KKrlwmSRCXClqFmSzGmA)
+- [Social Engineering](https://www.perplexity.ai/page/social-engineering-IGTpPkg8Qh.IOMBkhmCmzg)
 
 ### Distributed Systems
 - [Stateful and Stateless Distributed Systems](https://www.perplexity.ai/page/distributed-systems-what-are-s-u9NS2wp9SzCUWvkR0pDH_g)  
