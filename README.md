@@ -24,8 +24,7 @@ This repo is the entry point. Most of my 400+ repos are course infrastructure �
 - [Malware Archives](#malware-archives)
 - [Agentic Engineering — Claude Code Skills](#agentic-engineering--claude-code-skills)
 - [Hacker Culture & Preservation](#hacker-culture--preservation)
-- [Interactive Teaching Resources (Perplexity)](#interactive-teaching-resources-perplexity)
-- [Background, Credentials & Press](#background-credentials--press)
+- [Background & Credentials](#background--credentials)
 
 ---
 
@@ -141,44 +140,11 @@ Tools I built (and use daily) to make teaching and personal-information work tra
 
 ---
 
-## Interactive Teaching Resources (Perplexity)
-
-Curated reading pages used as supplementary primers for CECS 378 and CECS 327. Each is a stand-alone overview written for undergraduates with limited prior background.
-
-### Cybersecurity
-- [Primer on Computer Security](https://www.perplexity.ai/page/primer-on-computer-security-rRH8U0.6QCCt2fdkR8ljVw)
-- [Origins of Hacking](https://www.perplexity.ai/page/origins-of-hacking-FI8yYKN9Q9OzA76kyTYv2w)
-- [Asymmetric Encryption](https://www.perplexity.ai/page/public-key-encryption-primer-Ys0Y.1_pTeCdF17S.GDPZQ)
-- [Symmetric Encryption](https://www.perplexity.ai/page/symmetric-encryption-primer-IQisrj0dS6ivqbd8wx7MxA)
-- [Hashing and Randomness](https://www.perplexity.ai/page/hashing-algorithms-cMSMBLC_SmOGH8zKMpVEoA)
-- [Malicious Software](https://www.perplexity.ai/page/malicious-software-SOzEtWwERyOMcorXkUHdFg)
-- [Denial of Service Attacks](https://www.perplexity.ai/page/denial-of-service-attacks-ttYh6GvISVmEj8ue6pRTFg)
-- [Database Security](https://www.perplexity.ai/page/database-security-hn87j6QxSH.7ARDfKCYAfQ)
-- [Arbitrary Code Execution and Buffer Overflow Attacks](https://www.perplexity.ai/page/arbitrary-code-execution-ace-y8KKrlwmSRCXClqFmSzGmA)
-- [Social Engineering](https://www.perplexity.ai/page/social-engineering-IGTpPkg8Qh.IOMBkhmCmzg)
-
-### Distributed Systems
-- [Stateful and Stateless Distributed Systems](https://www.perplexity.ai/page/distributed-systems-what-are-s-u9NS2wp9SzCUWvkR0pDH_g)
-- [Code Migration in Distributed Systems](https://www.perplexity.ai/page/distributed-systems-code-migra-MWheWF6RQfG18bn9afAlhQ)
-- [Naming in Distributed Systems](https://www.perplexity.ai/page/explain-naming-in-distributed-szEsOxd.R4eUgU9Urp.OEA)
-- [TCP vs UDP vs IP](https://www.perplexity.ai/page/tcp-vs-udp-vs-ip-VZRK35KLS8Ks5AyXYmnitQ)
-
-### General Computing & Culture
-- [Software Version Control](https://www.perplexity.ai/page/software-version-control-0XlxwOg9QL2XErd5kDg5hw)
-- [Virtual Machines](https://www.perplexity.ai/page/virtual-machines-lAQXxo3WSAumkse6MtycxQ)
-- [MIT Tech Model Railroad Club](https://www.perplexity.ai/page/mit-tech-model-railroad-club-K_3RDZjMSuuuM2NcaPvbQw)
-- [Sister Mary Kenneth Keller](https://www.perplexity.ai/page/sister-mary-kenneth-keller-8h_hPm1VRka9yXPrGSZxlQ)
-- [RDML Grace Hopper (USN)](https://www.perplexity.ai/page/rdml-grace-hopper-usn-ItNPfhjTRwKIFOXL9gtcFQ)
-
----
-
-## Background, Credentials & Press
+## Background & Credentials
 
 **M.S. Thesis** — [*Evaluation of Security Methods for the Prevention of Malware on Mobile Devices*](https://www.proquest.com/openview/cd06aab6e06951ba6cdc064f959e8cb9/1?cbl=18750). Forecasting bootloader-level mobile threats before mainstream recognition.
 
 **FCC Amateur Radio License — Extra Class.** Callsign **[N6SH](https://www.qrz.com/db/N6SH)**. The highest class license issued by the FCC; demonstrates advanced knowledge of RF spectrum, propagation, digital/analog transmission, and secure communication. (License lookup also available via the [FCC ULS](https://www.fcc.gov/uls) — search by callsign N6SH.) Currently self-studying for the FCC GROL Element 3 commercial radiotelephone exam.
-
-**Press / Early Public Service** — [*Ticket Tony*, *Half Moon Bay Review*, 1998](https://www.coastsidenews.com/news/ticket-tape-parade-for-parking-scofflawseric-rice-half-moon-bay-review-april-10-1998/article_2a3773b6-ed1f-5c85-b9b0-3dad4266ed04.html). Documented public service as a Community Service Officer at age 18 — leadership, composure under pressure, public engagement.
 
 ---
 
